@@ -1,0 +1,2 @@
+echo "On Start"
+pause

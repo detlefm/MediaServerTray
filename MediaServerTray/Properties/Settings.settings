@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MediaServerTray.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="Port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8089</Value>
+    </Setting>
+    <Setting Name="User" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Passwort" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="OnRecordStart" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OnRecordStart.cmd</Value>
+    </Setting>
+    <Setting Name="OnRecordEnd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OnRecordEnd.cmd</Value>
+    </Setting>
+    <Setting Name="OnError" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OnError.cmd</Value>
+    </Setting>
+    <Setting Name="Logfile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MediaServerTrayLog.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
